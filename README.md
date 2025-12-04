@@ -1,0 +1,2 @@
+# DetectorResiduos
+Visión Artificial
